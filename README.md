@@ -1,33 +1,33 @@
 # Encontrei 
-Site responsivo de uma loja plusize, adaptado por MQJogos,
-desenvolvido com 40.3% de elementos HTML, 51.9% de variáveis CSS e 
-7.8% de práticas JavaScript.
-#
-https://youtu.be/3l8Lob4ysI0
-#
-#
-PRIMEIRA ETAPA
-https://youtu.be/0-NF3JMs4E8
-#
-#
-SEGUNDA ETAPA
-https://youtu.be/0-NF3JMs4E8
-#
-#
-TERCEIRA ETAPA
-https://youtu.be/0-NF3JMs4E8
-#
-#
-QUARTA ETAPA
-https://youtu.be/0-NF3JMs4E8
-#
-#
-QUINTA ETAPA
-https://youtu.be/0-NF3JMs4E8
-#
-#
-https://youtu.be/_NcyQawah6w
+Site de entrega de comida usando HTML CSS e javascript
 
-https://youtu.be/dZV-y3GzBlg
-#
-#
+# Tela de Login e Cadastro
+<img src="001.png" width="500px">
+<img src="002.png" width="500px">
+
+# CÓDIGO FONTE:
+- https://www.youtube.com/watch?v=USmwEDVM2Qc
+
+# Color Palette:
+ - https://mycolor.space
+
+# Editor de Imagens Online:
+ - https://www.resizepixel.com/pt/edit
+
+# Imagens:
+- https://www.freepik.com/
+- https://www.storyset.com/
+- https://www.undraw.com/
+- https://www.pixabay.com/
+- https://www.unsplash.com/
+- https://www.flaticon.com/
+- https://www.pngegg.com/
+
+# Redes Sociais:
+- https://www.instagram.com/trechosgame/
+- https://www.behance.net/trechosgame
+- https://www.colab55.com/@trechosdecodigo
+- https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
+- https://github.com/trechosgame  
+
+
