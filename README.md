@@ -1,5 +1,5 @@
 # Reiniciar 
-- Desenvolvimento de sistemas para igrejas 
+- Desenvolvimento de sistemas para igrejas em c#.
 
 
 # CÓDIGO FONTE:
