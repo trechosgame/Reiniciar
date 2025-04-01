@@ -1,4 +1,4 @@
-# Encontrei 
+# Reiniciar 
 Site de entrega de comida usando HTML CSS e javascript
 
 # Tela de Login e Cadastro
