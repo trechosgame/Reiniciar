@@ -1,12 +1,9 @@
 # Reiniciar 
-Site de entrega de comida usando HTML CSS e javascript
+- Desenvolvimento de sistemas para igrejas 
 
-# Tela de Login e Cadastro
-<img src="001.png" width="500px">
-<img src="002.png" width="500px">
 
 # CÓDIGO FONTE:
-- https://www.youtube.com/watch?v=USmwEDVM2Qc
+- https://www.youtube.com/watch?v=T0S6sYqo8aQ
 
 # Color Palette:
  - https://mycolor.space
